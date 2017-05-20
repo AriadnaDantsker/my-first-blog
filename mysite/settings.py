@@ -25,7 +25,7 @@ SECRET_KEY = '5gsflp*ovkec8)m5*2wc1lanvie2%w1s1cr4ah=eu&)_p1=9x5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ariadnad.pythonanywhere.com']
 
 
 # Application definition
